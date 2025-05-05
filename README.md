@@ -1,25 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Shashini%20Madushika&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20Digital%20Experiences%20with%20Passion&descAlignY=51&descSize=12" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=200&section=header&text=Shashini%20Madushika&fontSize=50&fontColor=3B82F6&fontAlignY=55&rotate=0&desc=Computer%20Science%20Student&descSize=18&descAlignY=75&descColor=CCCCCC" alt="header" width="100%" />
 </div>
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=4000&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&height=70&lines=Computer+Science+Student;Full-Stack+Developer;Problem+Solver;Security+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=580&height=70&lines=Full-Stack+Developer;Cyber+Security+Enthusiast;Web+development+Enthusiast;UI%2FUX+Engineering+Enthusiast" alt="Professional Skills" />
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/ShashiniMadhu">
+    <img width="90%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shashinimadhu&label=Profile%20Views&color=6da1f0&style=for-the-badge&labelColor=1f2937" alt="profile-views" />
-  <img src="https://img.shields.io/github/followers/ShashiniMadhu?logo=github&style=for-the-badge&color=6da1f0&labelColor=1f2937" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=shashinimadhu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/ShashiniMadhu?logo=github&style=flat&color=0e75b6" alt="followers" />
 </div>
-
-<br>
-
-<p align="center">
-  <i>
-    "𝑬𝒍𝒆𝒈𝒂𝒏𝒄𝒆 𝒊𝒔 𝒘𝒉𝒆𝒏 𝒕𝒉𝒆 𝒊𝒏𝒔𝒊𝒅𝒆 𝒊𝒔 𝒂𝒔 𝒃𝒆𝒂𝒖𝒕𝒊𝒇𝒖𝒍 𝒂𝒔 𝒕𝒉𝒆 𝒐𝒖𝒕𝒔𝒊𝒅𝒆."
-  </i>
-</p>
 
 <br>
 
@@ -121,12 +119,6 @@ const shashini = {
 
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShashiniMadhu&custom_title=Shashini's%20Contribution%20Graph&bg_color=00000000&color=6bbbff&line=6da1f0&point=bedcff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/ShashiniMadhu">
-    <img width="90%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
-  </a>
 </div>
 
 <br>
