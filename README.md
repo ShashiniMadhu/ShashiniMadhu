@@ -105,24 +105,6 @@ const shashini = {
 
 <br>
 
-## <div align="center">✧ GitHub Achievements ✧</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=shashinimadhu&theme=nord&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="trophy" />
-  </a>
-</div>
-
-<br>
-
-## <div align="center">✧ Activity Canvas ✧</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShashiniMadhu&custom_title=Shashini's%20Contribution%20Graph&bg_color=00000000&color=6bbbff&line=6da1f0&point=bedcff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<br>
-
 ## <div align="center">✧ Connect With Me ✧</div>
 
 <div align="center">
