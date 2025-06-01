@@ -32,10 +32,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashiniMadhu&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</div>
-
 <br>
 
 ## <div align="center">✧ About Me ✧</div>
